@@ -40,6 +40,10 @@ Camera Input → Face Detection → Feature Extraction → Storage/Comparison �
 - **Single Responsibility**: Each component has a specific purpose
 - **Loose Coupling**: Components communicate through well-defined interfaces
 
+### Workflow
+
+![Work flow](d3.png)
+
 ---
 
 ## 👁️ Face Detection Mechanism
